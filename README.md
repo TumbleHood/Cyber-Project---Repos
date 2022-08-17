@@ -13,4 +13,4 @@ In case of an unpredictable crash, restart Client.exe, any changes during a cras
 Further showcase of the program capabilities found in the .mp4 file, `Project Video - Guy Gur-Arieh.mp4`,
 and in the file `תיק פרויקט.pdf`.
 
-< Made by Guy Gur-Arie, 2019 >
+< Made by Guy Gur-Arieh, 2019 >
