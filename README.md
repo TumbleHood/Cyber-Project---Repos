@@ -10,6 +10,7 @@ Warning:
 The program will not allow you to use Hebrew characters or Special character. Do not upload files/folders with Hebrew name (Hebrew path is fine).
 In case of an unpredictable crash, restart Client.exe, any changes during a crash will be saved.
 
-Further showcase of the program capabilities found in the .mp4 file, `Project Video - Guy Gur-Arieh.mp4`.
+Further showcase of the program capabilities found in the .mp4 file, `Project Video - Guy Gur-Arieh.mp4`,
+and in the file `תיק פרויקט.pdf`.
 
 < Made by Guy Gur-Arie, 2019 >
